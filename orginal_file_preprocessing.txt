@@ -1,0 +1,24 @@
+
+Gender
+Female : 1
+Male : 2
+
+
+Customer
+Loyal Customer : 1
+disloyal Customer : 2
+
+
+Type of travel
+Bussiness Travel : 1
+Personal Travel  : 2
+
+
+Class
+Bussiness : 1
+Eco : 2
+Eco Plus : 3
+
+satisfaction
+neutral or dissatisfied : 1
+satisfied : 2
